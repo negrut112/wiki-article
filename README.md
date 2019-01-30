@@ -142,11 +142,9 @@ margin-top:0px;<br>
 }
 
 .intro{
-display:inline;<br>
+display:inline;
  }
 
-
 .footer{
-margin-left:-170px;<br>
-  }
+margin-left:-170px;
  }</code></pre>
