@@ -74,7 +74,7 @@
 &lt;td&gt;&lt;a href=&quot;#&quot;&gt;Single-player&lt;/a&gt;&lt;/td&gt;<br>
 &lt;/tr&gt;<br>
 &lt;/table&gt;<br>
-&lt;/div&gt;<code></pre>
+&lt;/div&gt;</code></pre>
 
 Lower, can be found the article description where I used div containers to wrap the content along speficic classes, a div with refernces and a div with external links:
 
