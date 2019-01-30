@@ -117,6 +117,7 @@ Lower, can be found the article description where I used div containers to wrap 
 <img src="https://i.imgur.com/N0eKzS0.png">
 
 <code><pre>
+.table1{
 display:inline;  // displays an element as an inline element<br>
 text-align:left; // text align<br>
 line-height:1.2rem; // line height 1.2*16px<br>
