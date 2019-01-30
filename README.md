@@ -88,7 +88,7 @@ Lower, can be found the article description where I used div containers to wrap 
 &lt;li&gt;&lt;a href=&quot;#&quot;&gt;^&lt;/a&gt; Federico, Chris.&lt;a href=&quot;#&quot;&gt; “The Complete 2600 Easter Egg Archive”&lt;/a&gt;Orphaned Computers &amp; Game Systems. Retrieved 2007-12-28.<br>
 &lt;/ol&gt;<br>
 &lt;/div&gt;</p>
-<p>&lt;div class=“external links”&gt;&lt;h2&gt;External links&lt;/h2&gt;&lt;span&gt;[&lt;a href=&quot;#&quot;&gt;hide&lt;/a&gt;]&lt;/span&gt;<br>
+&lt;div class=“external links”&gt;&lt;h2&gt;External links&lt;/h2&gt;&lt;span&gt;[&lt;a href=&quot;#&quot;&gt;hide&lt;/a&gt;]&lt;/span&gt;<br>
 &lt;hr&gt;<br>
 &lt;ul&gt;<br>
 &lt;li&gt;&lt;i&gt;&lt;a href=&quot;<a href="http://www.atariage.com/software_page.html?SystemID=2600&amp;SoftwareLabelID=99">http://www.atariage.com/software_page.html?SystemID=2600&amp;SoftwareLabelID=99</a>“&gt;Communist Mutants from Space&lt;/a&gt;&lt;/i&gt; at Atari Mania&lt;/li&gt;<br>
@@ -97,9 +97,9 @@ Lower, can be found the article description where I used div containers to wrap 
 
 <p>At the lowest part of page, I made the footer that includes author of the section, copyright data or links to related documents.</p>
 
-<pre><code>&lt;p&gt;This page was last edited on 5 April 2018, at 15:22 (UTC).&lt;/p&gt;
+<pre><code>
+&lt;p&gt;This page was last edited on 5 April 2018, at 15:22 (UTC).&lt;/p&gt;
 &lt;p&gt;Text is available under the &lt;a href=&quot;#&quot;&gt;Creative Commons Attribution-ShareAlike License;&lt;/a&gt;additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.&lt;/p&gt;
-
 &lt;table class=&quot;table3&quot;&gt;
   &lt;td&gt;&lt;a href=&quot;#&quot;&gt;Privacy Policy&lt;/a&gt;&lt;/td&gt;
   &lt;td&gt;&lt;a href=&quot;#&quot;&gt;About Wikipedia&lt;/a&gt;&lt;/td&gt;
