@@ -114,7 +114,8 @@ Lower, can be found the article description where I used div containers to wrap 
 
 <p>Here we customized elements from HTML according to classes or id-s. I will explain some examples below:</p>
 
-<img href="https://i.imgur.com/N0eKzS0.png">
+<img src="https://i.imgur.com/N0eKzS0.png">
+
 <code><pre>
 display:inline;  // displays an element as an inline element<br>
 text-align:left; // text align<br>
@@ -130,17 +131,20 @@ margin: 0px 0px 020px 20px; // space around elements<br>
 font-size:0.8rem; // font size 0.8*16px<br>
 padding-left:340px; // space on to the left of the element<br>
 }
-@media only screen and (max-width: 600px) { // media quiery on screen with widtg 600px or less, change folowing things.<br>
-.body {<br>
+@media only screen and (max-width: 600px) { // media quiery on screen with widtg 600px or less, change folowing things.
+
+.body {
 margin-left:0px;<br>
 margin-right:0px;<br>
 margin-top:0px;<br>
-}<br>
-.intro{<br>
+}
+
+.intro{
 display:inline;<br>
-}<br>
-}<br>
-.footer{<br>
+ }
+
+
+.footer{
 margin-left:-170px;<br>
-}<br>
+ }
 }</code></pre>
