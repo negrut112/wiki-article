@@ -133,6 +133,7 @@ margin: 0px 0px 020px 20px; // space around elements
 font-size:0.8rem; // font size 0.8*16px<br>
 padding-left:340px; // space on to the left of the element<br>
 }
+
 @media only screen and (max-width: 600px) { // media quiery on screen with width 600px or less, change folowing things.
 
 .body {
