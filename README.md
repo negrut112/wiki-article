@@ -78,7 +78,7 @@
 
 <p>Lower, can be found the article description where I used div containers to wrap the content along speficic classes, a div with refernces and a div with external links:</p>
 
-<p>&lt;div class=“references”&gt;<br>
+<pre><code>&lt;div class=“references”&gt;<br>
 &lt;h2&gt;References&lt;/h2&gt;&lt;span&gt;[&lt;a href=&quot;#&quot;&gt;hide&lt;/a&gt;]&lt;/span&gt;<br>
 &lt;hr&gt;<br>
 &lt;ol&gt;<br>
@@ -93,7 +93,8 @@
 &lt;ul&gt;<br>
 &lt;li&gt;&lt;i&gt;&lt;a href=&quot;<a href="http://www.atariage.com/software_page.html?SystemID=2600&amp;SoftwareLabelID=99">http://www.atariage.com/software_page.html?SystemID=2600&amp;SoftwareLabelID=99</a>“&gt;Communist Mutants from Space&lt;/a&gt;&lt;/i&gt; at Atari Mania&lt;/li&gt;<br>
 &lt;li&gt;&lt;i&gt;&lt;a href=”<a href="http://www.atariage.com/software_page.html?SystemID=2600&amp;SoftwareLabelID=99">http://www.atariage.com/software_page.html?SystemID=2600&amp;SoftwareLabelID=99</a>“&gt;Communist Mutants from Space&lt;/a&gt;&lt;/i&gt; at &lt;a href=”#&quot;&gt;AtariAge&lt;/a&gt;&lt;/li&gt;<br>
-&lt;/ul&gt;</p>
+&lt;/ul&gt;</code></pre>
+
 <p>At the lowest part of page, I made the footer that includes author of the section, copyright data or links to related documents.</p>
 <pre><code>&lt;p&gt;This page was last edited on 5 April 2018, at 15:22 (UTC).&lt;/p&gt;
 &lt;p&gt;Text is available under the &lt;a href=&quot;#&quot;&gt;Creative Commons Attribution-ShareAlike License;&lt;/a&gt;additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.&lt;/p&gt;
