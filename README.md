@@ -113,8 +113,9 @@ Lower, can be found the article description where I used div containers to wrap 
 # CSS
 
 <p>Here we customized elements from HTML according to classes or id-s. I will explain some examples below:</p>
-<p><a href="https://i.imgur.com/N0eKzS0.png">https://i.imgur.com/N0eKzS0.png</a></p>
-<p>.table1{<br>
+
+<img href="https://i.imgur.com/N0eKzS0.png">
+<code><pre>
 display:inline;  // displays an element as an inline element<br>
 text-align:left; // text align<br>
 line-height:1.2rem; // line height 1.2*16px<br>
@@ -124,12 +125,12 @@ width:auto; // automatic width according to screen size<br>
 padding:5px; // space around element content<br>
 float:right; // force an element to float either left or right<br>
 margin: 0px 0px 020px 20px; // space around elements<br>
-}</p>
-<p>.footer{<br>
+}
+.footer{<br>
 font-size:0.8rem; // font size 0.8*16px<br>
 padding-left:340px; // space on to the left of the element<br>
-}</p>
-<p>@media only screen and (max-width: 600px) { // media quiery on screen with widtg 600px or less, change folowing things.<br>
+}
+@media only screen and (max-width: 600px) { // media quiery on screen with widtg 600px or less, change folowing things.<br>
 .body {<br>
 margin-left:0px;<br>
 margin-right:0px;<br>
@@ -142,4 +143,4 @@ display:inline;<br>
 .footer{<br>
 margin-left:-170px;<br>
 }<br>
-}</p>
+}</code></pre>
