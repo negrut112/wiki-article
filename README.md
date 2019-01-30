@@ -23,7 +23,8 @@
 
 ### Content
 
-<img href="https://i.imgur.com/ohVJcEA.png">
+<img src="https://i.imgur.com/ohVJcEA.png">
+
 <pre><code>&lt;table&gt;
   &lt;caption&gt;&lt;center&gt;&lt;b&gt;Contents&lt;/b&gt; [&lt;a href=&quot;#&quot;&gt;hide&lt;/a&gt;]&lt;/center&gt;
   &lt;ol&gt;
@@ -39,9 +40,11 @@
 &lt;/table&gt;
 </code></pre>
 
-<p>Poster</p>
-<p><a href="https://i.imgur.com/oWVUZbv.png">https://i.imgur.com/oWVUZbv.png</a></p>
-<p>&lt;div class=“table1”&gt;<br>
+### Poster
+
+<img src="https://i.imgur.com/oWVUZbv.png">
+
+<pre><code>&lt;div class=“table1”&gt;<br>
 &lt;table&gt;<br>
 &lt;tr&gt;&lt;td colspan=“2” style=“text-align: center;”&gt;&lt;h3 style=“font-family:sans-serif”&gt;&lt;i&gt;Communist Mutants from Space&lt;/i&gt;&lt;/h3&gt;&lt;/td&gt;&lt;/tr&gt;<br>
 &lt;tr&gt;&lt;td colspan=“2” style=“text-align:center;”&gt;&lt;img src=&quot;<a href="https://upload.wikimedia.org/wikipedia/en/8/85/Communist_Mutants_from_Space_cover.jpg">https://upload.wikimedia.org/wikipedia/en/8/85/Communist_Mutants_from_Space_cover.jpg</a>&quot; alt=“Poster” width=“220” height=“306”&gt;&lt;/td&gt;&lt;/tr&gt;<br>
@@ -71,8 +74,10 @@
 &lt;td&gt;&lt;a href=&quot;#&quot;&gt;Single-player&lt;/a&gt;&lt;/td&gt;<br>
 &lt;/tr&gt;<br>
 &lt;/table&gt;<br>
-&lt;/div&gt;</p>
+&lt;/div&gt;<code></pre>
+
 <p>Lower, can be found the article description where I used div containers to wrap the content along speficic classes, a div with refernces and a div with external links:</p>
+
 <p>&lt;div class=“references”&gt;<br>
 &lt;h2&gt;References&lt;/h2&gt;&lt;span&gt;[&lt;a href=&quot;#&quot;&gt;hide&lt;/a&gt;]&lt;/span&gt;<br>
 &lt;hr&gt;<br>
