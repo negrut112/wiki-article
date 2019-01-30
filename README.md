@@ -125,8 +125,9 @@ background-color:#F8F9FA; // background color<br>
 width:auto; // automatic width according to screen size<br>
 padding:5px; // space around element content<br>
 float:right; // force an element to float either left or right<br>
-margin: 0px 0px 020px 20px; // space around elements<br>
+margin: 0px 0px 020px 20px; // space around elements
 }
+
 .footer{<br>
 font-size:0.8rem; // font size 0.8*16px<br>
 padding-left:340px; // space on to the left of the element<br>
