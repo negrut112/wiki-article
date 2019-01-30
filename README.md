@@ -76,7 +76,7 @@
 &lt;/table&gt;<br>
 &lt;/div&gt;<code></pre>
 
-<p>Lower, can be found the article description where I used div containers to wrap the content along speficic classes, a div with refernces and a div with external links:</p>
+Lower, can be found the article description where I used div containers to wrap the content along speficic classes, a div with refernces and a div with external links:
 
 <pre><code>&lt;div class=“references”&gt;<br>
 &lt;h2&gt;References&lt;/h2&gt;&lt;span&gt;[&lt;a href=&quot;#&quot;&gt;hide&lt;/a&gt;]&lt;/span&gt;<br>
@@ -96,6 +96,7 @@
 &lt;/ul&gt;</code></pre>
 
 <p>At the lowest part of page, I made the footer that includes author of the section, copyright data or links to related documents.</p>
+
 <pre><code>&lt;p&gt;This page was last edited on 5 April 2018, at 15:22 (UTC).&lt;/p&gt;
 &lt;p&gt;Text is available under the &lt;a href=&quot;#&quot;&gt;Creative Commons Attribution-ShareAlike License;&lt;/a&gt;additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.&lt;/p&gt;
 
@@ -108,7 +109,9 @@
   &lt;td&gt;&lt;a href=&quot;#&quot;&gt;Mobile view&lt;/a&gt;&lt;/td&gt;
 &lt;/table&gt;
 </code></pre>
-<p>CSS</p>
+
+# CSS
+
 <p>Here we customized elements from HTML according to classes or id-s. I will explain some examples below:</p>
 <p><a href="https://i.imgur.com/N0eKzS0.png">https://i.imgur.com/N0eKzS0.png</a></p>
 <p>.table1{<br>
